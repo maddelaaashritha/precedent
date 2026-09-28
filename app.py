@@ -14,5 +14,11 @@ def diagnose():
     result = diagnose_with_memory(incident_text)
     return jsonify({"response": result.text})
 
+@app.route("/resolve", methods=["POST"])
+def resolve():
+    data = request.json
+    store_incident(data["description"], data["root_cause"], data["fix"])
+    return jsonify({"status": "Saved to Hindsight memory!"})
+
 if __name__ == "__main__":
     app.run(debug=False, port=5000, threaded=False)
