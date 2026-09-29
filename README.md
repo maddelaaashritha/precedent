@@ -10,7 +10,7 @@ Precedent is a small web app. You describe a new incident ("redis timeouts again
 
 ![Precedent screenshot](docs/screenshot.png)
 
----
+
 
 ## The problem
 
