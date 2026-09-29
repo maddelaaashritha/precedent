@@ -1,4 +1,4 @@
-# Precedent
+#Precedent
 
 **An on-call assistant that remembers every past production incident, so the same outage never gets diagnosed from scratch twice.**
 
@@ -7,9 +7,8 @@ Precedent is a small web app. You describe a new incident ("redis timeouts again
 > Built by: **Maddela Aashritha** and **Nukala Sai Chetan**
 > Demo video: **[ADD YOUTUBE LINK]**
 
-<!-- Add a screenshot of the app here:
+
 ![Precedent screenshot](docs/screenshot.png)
--->
 
 ---
 
