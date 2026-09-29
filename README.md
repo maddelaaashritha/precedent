@@ -11,7 +11,6 @@ Precedent is a small web app. You describe a new incident ("redis timeouts again
 ![Precedent screenshot](docs/screenshot.png)
 
 
-
 ## The problem
 
 When production breaks, engineers scramble to find the cause. Often something very similar has broken before, but the answer lives in an old Slack thread, a forgotten doc, or one person's head. Teams lose time re-diagnosing problems they have already solved.
