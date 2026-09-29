@@ -1,4 +1,4 @@
-#Precedent
+# Precedent
 
 **An on-call assistant that remembers every past production incident, so the same outage never gets diagnosed from scratch twice.**
 
